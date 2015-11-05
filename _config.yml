@@ -1,0 +1,13 @@
+# Site settings
+title: The 8th Letter
+email: h@hhatfield.com
+description: > # this means to ignore newlines until "baseurl:"
+  H Hatfield's corner of the Internet.
+  A discussion of various and sundry things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://blog.hhatfield.com" # the base hostname & protocol for your site
+twitter_username: hatfieldje
+github_username:  hhatfield
+
+# Build settings
+markdown: kramdown
